@@ -25,8 +25,8 @@ DJILI Mohamed Amine
 
 **Instructions:**
 
-1. Clone this repository: `git clone [repository_url]`
-2. Compile the program: `gcc -o portinfo portinfo.c`
+1. Clone this repository: `git clone https://github.com/SieGer05/PortInfoViewer.git`
+2. Compile the program: `gcc -o portinfo main.c`
 3. Run the program: `./portinfo`
 4. Follow the on-screen instructions to look up port information.
 
