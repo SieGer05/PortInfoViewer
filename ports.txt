@@ -1,0 +1,240 @@
+80|HTTP|Protocol|Port used for HTTP requests|World Wide Web
+443|HTTPS|Protocol|Secure port used for HTTPS requests|World Wide Web
+22|SSH|Protocol|Port used for secure SSH connections|System
+7|Echo|Protocol|Used for testing network connectivity|System
+19|Chargen|Protocol|Generates random characters|System
+20|FTP Data|Protocol|Data transfer for FTP|Network
+21|FTP Control|Protocol|Controls commands for FTP|Network
+23|Telnet|Protocol|Remote access to the system|System
+25|SMTP|Protocol|Sending email|Network
+42|WINS Replication|Protocol|WINS replication|Network
+43|WHOIS|Protocol|Domain name information lookup|Network
+49|TACACS|Protocol|Remote access authentication|Network
+53|DNS|Protocol|Domain name resolution|Network
+67|Bootps|Protocol|Bootstrap protocol server|Network
+68|Bootpc|Protocol|Bootstrap protocol client|Network
+69|TFTP|Protocol|Trivial File Transfer Protocol|Network
+70|Gopher|Protocol|Document search system|Network
+79|Finger|Protocol|Displays user information|System
+88|Kerberos|Protocol|Secure network authentication|System
+102|MS Exchange|Protocol|Microsoft Exchange communication|Application
+110|POP3|Protocol|Retrieve email|Network
+113|Ident|Protocol|Client connection identification|System
+119|NNTP|Protocol|Usenet discussion groups|Network
+123|NTP|Protocol|Network time protocol|Network
+135|MS RPC|Protocol|Microsoft RPC communication|System
+137|NetBIOS Name Service|Protocol|NetBIOS name resolution|Network
+139|NetBIOS Session Service|Protocol|NetBIOS session|Network
+143|IMAP|Protocol|Access to email|Network
+161|SNMP|Protocol|Simple Network Management Protocol|Network
+162|SNMP Trap|Protocol|Transmission of SNMP alerts|Network
+177|XDMCP|Protocol|X Window System remote display|Network
+179|BGP|Protocol|Border Gateway Protocol|Network
+201|AppleTalk Routing Maintenance|Protocol|AppleTalk routing maintenance|Network
+264|BGMP|Protocol|BGP multicast group protocol|Network
+318|PKIX Time Stamp|Protocol|PKIX timestamping|Network
+381|HP Open Requestor|Protocol|HP OpenView request|Network
+383|HP Open Recorder|Protocol|HP OpenView recorder|Network
+389|LDAP|Protocol|Lightweight Directory Access Protocol|Network
+411|Direct Connect Hub|Protocol|Direct Connect Hub|Network
+412|Direct Connect Client-to-Client|Protocol|Direct Connect Client-to-Client|Network
+443|HTTPS|Protocol|Secure port used for HTTPS requests|World Wide Web
+445|Microsoft-DS|Protocol|Microsoft Directory Services|Network
+464|Kerberos Change/Set password|Protocol|Kerberos Change/Set password|System
+465|SMTPS|Protocol|Secure SMTP (SMTP over SSL)|Network
+497|Retrospect|Protocol|Retrospect backup and restore service|Network
+500|ISAKMP|Protocol|Internet Security Association and Key Management Protocol|Network
+512|rexec|Protocol|Remote Process Execution|System
+513|rlogin|Protocol|Remote Login|System
+514|Syslog|Protocol|Syslog|Network
+515|lpd|Protocol|Line Printer Daemon|Network
+520|RIP|Protocol|Routing Information Protocol|Network
+521|RIPv2|Protocol|Routing Information Protocol version 2|Network
+540|UUCP|Protocol|Unix-to-Unix Copy Program|Network
+554|RTSP|Protocol|Real-Time Streaming Protocol|Network
+546|DHCPv6 Client|Protocol|DHCPv6 Client|Network
+547|DHCPv6 Server|Protocol|DHCPv6 Server|Network
+560|rmonitor|Protocol|Remote Monitor|System
+563|NNTP over TLS/SSL|Protocol|NNTP over TLS/SSL|Network
+587|SMTP (submission)|Protocol|SMTP (submission)|Network
+591|FileMaker|Protocol|FileMaker Pro|Network
+593|Microsoft DCOM|Protocol|Microsoft Distributed Component Object Model|Network
+631|IPP|Protocol|Internet Printing Protocol|Network
+636|LDAPS|Protocol|Secure LDAP (LDAP over SSL)|Network
+639|MSDP|Protocol|Multicast Source Discovery Protocol|Network
+646|LDP|Protocol|Label Distribution Protocol|Network
+691|MS Exchange Routing|Protocol|MS Exchange Routing|Application
+860|iSCSI|Protocol|iSCSI (Internet Small Computer Systems Interface)|Network
+873|rsync|Protocol|rsync|Network
+902|VMware Server Console|Protocol|VMware Server Console|Network
+989|FTPS Data|Protocol|Secure FTP (FTP over SSL) - Data|Network
+990|FTPS Control|Protocol|Secure FTP (FTP over SSL) - Control|Network
+993|IMAPS|Protocol|Secure IMAP (IMAP over SSL)|Network
+995|POP3S|Protocol|Secure POP3 (POP3 over SSL)|Network
+1025|Microsoft RPC|Protocol|Microsoft Remote Procedure Call|System
+1026|Win-Rpc|Protocol|Windows Remote Procedure Call|System
+1029|MS-LA|Protocol|Microsoft Local Administrator|System
+1080|Socks|Protocol|SOCKS proxy|Network
+1080|MyDoom|Protocol|MyDoom virus-related port|Malware
+1194|OpenVPN|Protocol|OpenVPN|Network
+1214|Kazaa|Protocol|Kazaa file sharing|Network
+1241|Nessus|Protocol|Nessus Security Scanner|Network
+1311|Dell OpenManage|Protocol|Dell OpenManage|Network
+1337|WASTE|Protocol|WASTE decentralized file sharing|Network
+1433|MS SQL|Protocol|Microsoft SQL Server|Database
+1434|MS SQL Monitor|Protocol|Microsoft SQL Server Monitor|Database
+1512|WINS|Protocol|Windows Internet Naming Service|Network
+1589|Cisco VQP|Protocol|Cisco VLAN Query Protocol|Network
+1701|L2TP|Protocol|Layer 2 Tunneling Protocol|Network
+1723|PPTP|Protocol|Point-to-Point Tunneling Protocol|Network
+1725|Steam|Protocol|Steam gaming service|Application
+1741|CiscoWorks|Protocol|CiscoWorks|Network
+1755|MS Media Server|Protocol|Microsoft Media Services|Network
+1812|RADIUS|Protocol|Remote Authentication Dial-In User Service|Network
+1813|RADIUS Accounting|Protocol|RADIUS Accounting|Network
+1863|MSN Messenger|Protocol|MSN Messenger|Application
+1985|Cisco HSRP|Protocol|Cisco Hot Standby Router Protocol|Network
+2000|Cisco SCCP|Protocol|Cisco Skinny Client Control Protocol|Network
+2002|QuickTime Streaming|Protocol|QuickTime Streaming Server|Network
+2049|NFS|Protocol|Network File System|Network
+2082|cPanel|Protocol|cPanel|Application
+2083|cPanel SSL|Protocol|cPanel SSL|Application
+2100|Oracle XDB|Protocol|Oracle XML DB|Database
+2222|DirectAdmin|Protocol|DirectAdmin|Application
+2302|Halo Server|Protocol|Halo gaming server|Application
+2483|Oracle DB|Protocol|Oracle database|Database
+2484|Oracle DB SSL|Protocol|Oracle database SSL|Database
+993|IMAPS|Protocol|Secure IMAP (IMAP over SSL)|Network
+995|POP3S|Protocol|Secure POP3 (POP3 over SSL)|Network
+1025|Microsoft RPC|Protocol|Microsoft Remote Procedure Call|System
+1026|Win-Rpc|Protocol|Windows Remote Procedure Call|System
+1029|MS-LA|Protocol|Microsoft Local Administrator|System
+1080|Socks|Protocol|SOCKS proxy|Network
+1080|MyDoom|Protocol|MyDoom virus-related port|Malware
+1194|OpenVPN|Protocol|OpenVPN|Network
+1214|Kazaa|Protocol|Kazaa file sharing|Network
+1241|Nessus|Protocol|Nessus Security Scanner|Network
+1311|Dell OpenManage|Protocol|Dell OpenManage|Network
+1337|WASTE|Protocol|WASTE decentralized file sharing|Network
+1433|MS SQL|Protocol|Microsoft SQL Server|Database
+1434|MS SQL Monitor|Protocol|Microsoft SQL Server Monitor|Database
+1512|WINS|Protocol|Windows Internet Naming Service|Network
+1589|Cisco VQP|Protocol|Cisco VLAN Query Protocol|Network
+1701|L2TP|Protocol|Layer 2 Tunneling Protocol|Network
+1723|PPTP|Protocol|Point-to-Point Tunneling Protocol|Network
+1725|Steam|Protocol|Steam gaming service|Application
+1741|CiscoWorks|Protocol|CiscoWorks|Network
+1755|MS Media Server|Protocol|Microsoft Media Services|Network
+1812|RADIUS|Protocol|Remote Authentication Dial-In User Service|Network
+1813|RADIUS Accounting|Protocol|RADIUS Accounting|Network
+1863|MSN Messenger|Protocol|MSN Messenger|Application
+1985|Cisco HSRP|Protocol|Cisco Hot Standby Router Protocol|Network
+2000|Cisco SCCP|Protocol|Cisco Skinny Client Control Protocol|Network
+2002|QuickTime Streaming|Protocol|QuickTime Streaming Server|Network
+2049|NFS|Protocol|Network File System|Network
+2082|cPanel|Protocol|cPanel|Application
+2083|cPanel SSL|Protocol|cPanel SSL|Application
+2100|Oracle XDB|Protocol|Oracle XML DB|Database
+2222|DirectAdmin|Protocol|DirectAdmin|Application
+2302|Halo Server|Protocol|Halo gaming server|Application
+2483|Oracle DB|Protocol|Oracle database|Database
+2484|Oracle DB SSL|Protocol|Oracle database SSL|Database
+2745|Bagle.H (Beagle)|Protocol|Bagle.H (Beagle) worm-related port|Malware
+2967|Symantec AV|Protocol|Symantec AntiVirus (default port for pushing client installs)|Network
+3050|InterBase|Protocol|InterBase database|Database
+3074|Xbox Live|Protocol|Xbox Live|Gaming
+3124|HTTP Proxy|Protocol|HTTP proxy|Network
+3124|HTTP Proxy|Protocol|HTTP proxy|Network
+3127|MyDoom|Protocol|MyDoom virus-related port|Malware
+3128|HTTP Proxy|Protocol|HTTP proxy|Network
+3222|GLBP|Protocol|Gateway Load Balancing Protocol|Network
+3260|iSCSI Target|Protocol|iSCSI target|Network
+3306|MySQL|Protocol|MySQL database|Database
+3389|RDP|Protocol|Remote Desktop Protocol|Network
+3690|Subversion|Protocol|Subversion version control system|Network
+3724|World of Warcraft|Protocol|World of Warcraft|Gaming
+3784|Ventrilo|Protocol|Ventrilo voice communication|Application
+3785|Ventrilo|Protocol|Ventrilo voice communication|Application
+4333|mSQL|Protocol|mSQL database|Database
+4444|Blaster, Sasser|Protocol|Blaster and Sasser worm-related port|Malware
+4664|Google Desktop|Protocol|Google Desktop|Application
+4672|eMule|Protocol|eMule|Application
+4899|Radmin|Protocol|Radmin remote administration tool|Application
+5000|UPnP|Protocol|Universal Plug and Play|Network
+5001|Slingbox|Protocol|Slingbox remote video streaming|Application
+5004|RTP|Protocol|Real-time Transport Protocol|Network
+5005|RTP|Protocol|Real-time Transport Protocol|Network
+5050|Yahoo! Messenger|Protocol|Yahoo! Messenger|Application
+5060|SIP|Protocol|Session Initiation Protocol|Network
+5190|AIM|Protocol|AOL Instant Messenger|Application
+5222|XMPP/Jabber|Protocol|Extensible Messaging and Presence Protocol (XMPP/Jabber)|Network
+5223|Apple Push Notification Service|Protocol|Apple Push Notification Service|Network
+5432|PostgreSQL|Protocol|PostgreSQL database|Database
+5500|VNC|Protocol|Virtual Network Computing (VNC)|Network
+5554|Sasser|Protocol|Sasser worm-related port|Malware
+5631|pcAnywhere|Protocol|Symantec pcAnywhere|Application
+5632|pcAnywhere|Protocol|Symantec pcAnywhere|Application
+5800|VNC|Protocol|Virtual Network Computing (VNC)|Network
+5900|VNC|Protocol|Virtual Network Computing (VNC)|Network
+6000|X11|Protocol|X Window System|Network
+6001|X11|Protocol|X Window System|Network
+6112|Warcraft III|Protocol|Warcraft III|Gaming
+6129|DameWare|Protocol|DameWare remote administration tool|Application
+6257|WinMX|Protocol|WinMX peer-to-peer file sharing|Network
+6346|Gnutella|Protocol|Gnutella peer-to-peer file sharing|Network
+6347|Gnutella|Protocol|Gnutella peer-to-peer file sharing|Network
+6500|Radmin|Protocol|Radmin remote administration tool|Application
+6566|SANE|Protocol|Scanner Access Now Easy (SANE)|Network
+6588|AnalogX Proxy|Protocol|AnalogX Proxy|Network
+6665|Internet Relay Chat (IRC)|Protocol|Internet Relay Chat (IRC)|Communication
+6669|Internet Relay Chat (IRC)|Protocol|Internet Relay Chat (IRC)|Communication
+6679|IRC SSL|Protocol|IRC over SSL|Communication
+6697|IRC SSL|Protocol|IRC over SSL|Communication
+6699|Napster|Protocol|Napster|Application
+6881|BitTorrent|Protocol|BitTorrent|Network
+6999|IATP|Protocol|Internet Access to Textmail Protocol|Network
+6891|Windows Live Messenger|Protocol|Windows Live Messenger|Application
+6901|Windows Live Messenger|Protocol|Windows Live Messenger|Application
+6970|QuickTime|Protocol|QuickTime streaming media|Application
+7212|GhostSurf|Protocol|GhostSurf proxy|Network
+7648|CU-SeeMe|Protocol|CU-SeeMe videoconferencing|Application
+7649|CU-SeeMe|Protocol|CU-SeeMe videoconferencing|Application
+8000|HTTP Alternate|Protocol|HTTP alternate (commonly used for web proxies)|Network
+8080|HTTP|Protocol|HTTP (alternative port)|Network
+8086|Kaspersky AV|Protocol|Kaspersky Anti-Virus Update Daemon|Network
+8087|Kaspersky AV|Protocol|Kaspersky Anti-Virus Update Daemon|Network
+8118|Privoxy|Protocol|Privoxy web proxy|Network
+8200|VMware Server Console|Protocol|VMware Server Console|Application
+8500|Adobe ColdFusion|Protocol|Adobe ColdFusion built-in web server|Application
+8767|TeamSpeak|Protocol|TeamSpeak voice communication|Application
+8866|XUnleashed|Protocol|XUnleashed game automation|Application
+9100|HP JetDirect|Protocol|HP JetDirect printer protocol|Network
+9101|Bacula Director|Protocol|Bacula Director|Network
+9103|Bacula Director|Protocol|Bacula Director|Network
+9119|MXit|Protocol|MXit instant messenger|Application
+9800|WebDAV|Protocol|WebDAV (commonly used for remote file access)|Network
+9898|Dabber|Protocol|Dabber music sharing|Network
+9988|Ogg Vorbis|Protocol|Ogg Vorbis media streaming|Network
+9999|Napster|Protocol|Napster|Application
+10000|Network Data Management Protocol|Protocol|Network Data Management Protocol|Network
+10000|Webmin|Protocol|Webmin administration|Application
+10113|NetIQ Endpoint|Protocol|NetIQ Endpoint Manager|Network
+10116|NetIQ|Protocol|NetIQ|Network
+11371|OpenPGP|Protocol|OpenPGP encrypted data transmission|Network
+12035|Second Life|Protocol|Second Life virtual world|Application
+12036|Second Life|Protocol|Second Life virtual world|Application
+12345|NetBus|Protocol|NetBus remote administration tool|Malware
+13720|BMC Patrol|Protocol|BMC Patrol agent|Network
+13721|BMC Patrol|Protocol|BMC Patrol agent|Network
+14567|Battlefield|Protocol|Battlefield game series|Gaming
+15118|Miranda IM|Protocol|Miranda IM instant messenger|Application
+19226|AdminSecure|Protocol|AdminSecure remote administration tool|Application
+19638|Ensim Control Panel|Protocol|Ensim Control Panel|Application
+20000|DNP|Protocol|Distributed Network Protocol (DNP)|Network
+24800|Synergy|Protocol|Synergy keyboard and mouse sharing|Application
+25999|Xfire|Protocol|Xfire gaming communication|Application
+27015|Steam|Protocol|Steam gaming service|Application
+27374|Sub7|Protocol|Sub7 remote administration tool|Malware
+28960|Call of Duty|Protocol|Call of Duty game series|Gaming
+31337|Back Orifice|Protocol|Back Orifice remote administration tool|Malware
+33434|Traceroute|Protocol|Traceroute network diagnostic tool|Network
